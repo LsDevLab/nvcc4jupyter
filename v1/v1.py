@@ -6,7 +6,7 @@ import uuid
 from IPython.core.magic import Magics, cell_magic, magics_class
 from common import helper
 
-compiler = '/usr/local/cuda/bin/nvcc'
+compiler = '/usr/local/cuda-9.2/bin/nvcc'
 ext = '.cu'
 
 
