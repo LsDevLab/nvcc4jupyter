@@ -1,4 +1,4 @@
-## NVCC Plugin for Jupyter notebook
+## NVCC (9.2) Plugin for Jupyter notebook
 
 ### V2 is available
 
